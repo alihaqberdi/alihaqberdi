@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Hits](https://hits.sh/github.com/alihaqberdi.svg)](https://hits.sh/github.com/alihaqberdi/)
+
 <!--START_SECTION:waka-->
 
 ```txt
