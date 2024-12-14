@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python                     13 hrs 28 mins  ██████████████░░░░░░░░░░░   55.84 %
-JavaScript                 3 hrs 50 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.94 %
-XML                        2 hrs 30 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
-YAML                       1 hr 49 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
-Nginx configuration file   1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+Python                     13 hrs 28 mins  ████████████▓░░░░░░░░░░░░   50.32 %
+JavaScript                 3 hrs 50 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 %
+XML                        2 hrs 30 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+YAML                       2 hrs 16 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
+Nginx configuration file   1 hr 32 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
 ```
 
 <!--END_SECTION:waka-->
