@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python           9 hrs 38 mins   ██████████████▓░░░░░░░░░░   58.51 %
-XML              2 hrs 26 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 %
-JavaScript       2 hrs 25 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
-Markdown         59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
-textmate         42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+Python             8 hrs 47 mins   █████████████▒░░░░░░░░░░░   53.69 %
+XML                2 hrs 54 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.75 %
+JavaScript         2 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
+Markdown           59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+textmate           43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
 ```
 
 <!--END_SECTION:waka-->
