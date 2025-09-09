@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       7 hrs 16 mins   █████████████████████▒░░░   85.68 %
-XML          1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
-CSV          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Python       7 hrs 13 mins   █████████████████████▓░░░   87.28 %
+XML          1 hr 1 min      ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
+CSV          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 CSV file     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
