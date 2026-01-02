@@ -20,11 +20,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-XML              18 mins         ████████████▓░░░░░░░░░░░░   50.38 %
-Python           10 mins         ███████▒░░░░░░░░░░░░░░░░░   28.88 %
-CSV              7 mins          █████░░░░░░░░░░░░░░░░░░░░   20.32 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
