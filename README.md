@@ -20,7 +20,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python           1 hr 50 mins    █████████████████████▓░░░   86.49 %
+textmate         10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
+XML              3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+TOML             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
