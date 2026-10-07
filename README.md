@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       7 hrs 11 mins         █████████▓░░░░░░░░░░░░░░░   39.11 %
-Markdown     6 hrs 1 min           ████████▒░░░░░░░░░░░░░░░░   32.79 %
-Other        2 hrs 32 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 %
-JavaScript   1 hr 22 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
-Bash         1 hr 11 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+Markdown     11 hrs 49 mins        ██████████▒░░░░░░░░░░░░░░   41.30 %
+Python       8 hrs 10 mins         ███████░░░░░░░░░░░░░░░░░░   28.56 %
+Other        2 hrs 53 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
+GDScript3    2 hrs 4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+JavaScript   1 hr 36 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
 ```
 
 <!--END_SECTION:waka-->
